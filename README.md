@@ -16,6 +16,8 @@ LED
 
 ## Diagrama del circuito
 
+<img src="imagenes/image_2026-09-26_223029875.png" alt="Texto alternativo" width="400">
+
 
 
 ## Código
