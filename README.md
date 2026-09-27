@@ -8,16 +8,15 @@ Con el uso de un modulo DHT22, detectamos si la temperatura sobrepasa ciertos gr
 Aprender a hacer correcto uso de arduino, leds, resistencia y módulo DHT22
 
 ## Material utilizado
-Protoboard
-Arduino UNO R4 WIFI
-4 Jumpers
-Resistencia
-LED
+-Protoboard
+-Arduino UNO R4 WIFI
+-4 Jumpers
+-Resistencia
+-LED
 
 ## Diagrama del circuito
 
-<img src="imagenes/image_2026-09-26_223029875.png" alt="Texto alternativo" width="400">
-
+<img src="imagenes/image_2026-09-26_223029875.png" alt="Texto alternativo" width="100">
 
 
 ## Código
