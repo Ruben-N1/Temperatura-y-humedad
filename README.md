@@ -16,7 +16,7 @@ Aprender a hacer correcto uso de arduino, leds, resistencia y módulo DHT22
 
 ## Diagrama del circuito
 
-<img src="imagenes/image_2026-09-26_223029875.png" alt="Texto alternativo" width="100">
+<img src="imagenes/image_2026-09-26_223029875.png" alt="Texto alternativo" width="200">
 
 
 ## Código
