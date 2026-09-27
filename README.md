@@ -26,6 +26,7 @@ Aprender a hacer correcto uso de arduino, leds, resistencia y módulo DHT22
 ## Video del funcionamiento
 
 [![Ver video](https://img.youtube.com/vi/fJFZ0PBhCsA/0.jpg)](https://youtube.com/shorts/fJFZ0PBhCsA?feature=share)
+[![Ver video](https://img.youtube.com/vi/mhT30snkJFc/0.jpg)](https://youtube.com/shorts/mhT30snkJFc?feature=share)
 
 ## Evidencias de armado
 
