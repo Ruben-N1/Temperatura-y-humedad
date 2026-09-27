@@ -21,18 +21,21 @@ Aprender a hacer correcto uso de arduino, leds, resistencia y módulo DHT22
 
 ## Código
 
+[Temperatura.ino](codigo/Temperatura.ino)
+
 ## Video del funcionamiento
+
+[![Ver video](https://img.youtube.com/vi/fJFZ0PBhCsA/0.jpg)](https://youtube.com/shorts/fJFZ0PBhCsA?feature=share)
 
 ## Evidencias de armado
 
+<img src="imagenes/image_2026-09-26_223029875.png" alt="Texto alternativo" width="200">
+
 ## Reporte
 
-## Gráficas
-
-## Tablas de datos
-
-## Observaciones sobre el comportamiento del sistema
 
 ## Conclusiones
+
+En conclusión, el proyecto permitió implementar un sistema capaz de medir temperatura y humedad con un DHT22 y Arduino UNO R4 WiFi, además de enviar alertas automáticamente cuando la temperatura supera el límite establecido. Con esto se comprendió de manera práctica la integración entre hardware, programación e IoT.
 
 ## Resultados
